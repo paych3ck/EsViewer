@@ -1,0 +1,17 @@
+C:\Users\katae\source\repos\EsViewer\EsViewer\bin\Debug\netcoreapp3.1\EsViewer.exe
+C:\Users\katae\source\repos\EsViewer\EsViewer\bin\Debug\netcoreapp3.1\EsViewer.deps.json
+C:\Users\katae\source\repos\EsViewer\EsViewer\bin\Debug\netcoreapp3.1\EsViewer.runtimeconfig.json
+C:\Users\katae\source\repos\EsViewer\EsViewer\bin\Debug\netcoreapp3.1\EsViewer.runtimeconfig.dev.json
+C:\Users\katae\source\repos\EsViewer\EsViewer\bin\Debug\netcoreapp3.1\EsViewer.dll
+C:\Users\katae\source\repos\EsViewer\EsViewer\bin\Debug\netcoreapp3.1\EsViewer.pdb
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.csproj.AssemblyReference.cache
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.MainTableForm.resources
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.csproj.GenerateResource.cache
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.AssemblyInfoInputs.cache
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.AssemblyInfo.cs
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.csproj.CoreCompileInputs.cache
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.dll
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.pdb
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.genruntimeconfig.cache
+C:\Users\katae\source\repos\EsViewer\EsViewer\obj\Debug\netcoreapp3.1\EsViewer.ShowImageForm.resources
